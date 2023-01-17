@@ -30,6 +30,7 @@ for (let row of seatingChart) {
     }
 }
 
+// 배열이 아닌 String 반복 단, 배열이랑 많이 쓰임. 
 for (let char of "hello world") {
     console.log(char);
 }
